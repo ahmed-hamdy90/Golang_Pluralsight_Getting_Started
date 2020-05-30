@@ -40,7 +40,7 @@
 
 ##### Run Examples:
 
- You can Run every example(has his own Dockerfile) using Docker, if you don't have Docker , you can install Docker Engine from [Here](https://docs.docker.com/engine/install)
+ You can Run every example using Docker(every one has his own Dockerfile file), if you don't have Docker , you can install Docker Engine from [Here](https://docs.docker.com/engine/install)
 
  - First build docker image
 ```shell
