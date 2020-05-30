@@ -49,5 +49,5 @@ docker build -t golangtestapp .
 
  - Second run built image
 ```shell
-docker run --name golangtestapp golangtestapp
+docker run --name golangtestapp -p 3000:3000 golangtestapp
 ```
